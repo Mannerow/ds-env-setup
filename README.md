@@ -37,7 +37,9 @@ You’ll know the environment is active when your terminal prompt changes to som
 
 Upgrade pip to ensure you have the latest version:
 
+```bash
 python -m pip install --upgrade pip
+```
 
 ### 🛠️ Step 1.5: Install Dependencies
 
