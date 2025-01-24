@@ -1,6 +1,6 @@
 # 🛠️ Data Science Environment Setup Guide
 
-Follow these steps to set up your development environment.
+This guide sets up a Python environment for working with, analyzing, and visualizing spatial data using PostgreSQL with PostGIS and Folium for interactive mapping.
 
 ---
 
