@@ -11,3 +11,5 @@ polars==1.21.0
 psycopg2-binary==2.9.10
 pyarrow==19.0.0
 spacy==3.8.4
+python-dotenv==1.0.1
+SQLAlchemy==2.0.37
